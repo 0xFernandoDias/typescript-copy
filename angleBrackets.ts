@@ -1,4 +1,4 @@
-let message
+let message 
 message = 12
 
 let endsWithC  = <string>message.endsWith("c") // :boolean
